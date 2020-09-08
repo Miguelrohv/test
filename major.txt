@@ -1,1 +1,22 @@
-{ "name":"John", "age":30, "city":"New York"}
+{"BP no approval in excess of limit":"BP no approval in excess of limit",
+"BP no approval on case to case availment":"BP no approval on case to case availment",
+"Crosscheck encashment":"Crosscheck encashment",
+"Incomplete approval of withdrawal/encashment beyond the approved limit of BSO/BSM":"Incomplete approval of withdrawal/encashment beyond the approved limit of BSO/BSM",
+"Incomplete approval on Cash Transfer beyond the branch officer's limit":"Incomplete approval on Cash Transfer beyond the branch officer's limit",
+"No Acknowledgement of client on encashment/withdrawal":"No Acknowledgement of client on encashment/withdrawal",
+"No approval on Employee Transaction":"No approval on Employee Transaction",
+"No approval on Second Endorsed check deposit":"No approval on Second Endorsed check deposit",
+"No approval on waiver of RCOCI Service Charges":"No approval on waiver of RCOCI Service Charges",
+"No signature of client at the back of the check encashed":"No signature of client at the back of the check encashed",
+"No signature of client on withdrawal slip/encashment":"No signature of client on withdrawal slip/encashment",
+"PAF – no/incomplete signature of applicant, no approval":"PAF – no/incomplete signature of applicant, no approval",
+"Postdated check encashment":"Postdated check encashment",
+"Postdated On Us Check Deposit":"Postdated On Us Check Deposit",
+"Signature of client not verified on the transaction media":"Signature of client not verified on the transaction media",
+"Stale dated on us check deposit":"Stale dated on us check deposit",
+"Transaction media not scanned and dumped":"Transaction media not scanned and dumped",
+"Under/Over posting of transaction":"Under/Over posting of transaction",
+"Unscanned Transaction media":"Unscanned Transaction media",
+"Unsigned Letter of Instruction (LOI) without approval":"Unsigned Letter of Instruction (LOI) without approval",
+"Wrong GL Used":"Wrong GL Used"}
+
